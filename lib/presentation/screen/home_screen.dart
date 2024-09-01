@@ -65,7 +65,7 @@ class _HomeScreenState extends State<HomeScreen> {
               children: [
                 Text('FLUTTER WEB. THE BASIC', style: TextStyle(fontSize: 50, fontWeight: FontWeight.bold),),
                 Text('In this course we will go over the basics of using Flutter web for development. '
-                    'Topic will include Responsive Layout, Deplouing, Font Changes, Hover functionality, '
+                    'Topic  will include Responsive Layout, Deplouing, Font Changes, Hover functionality, '
                     'Modals and more.', style: TextStyle(fontSize: 20)),
                 ElevatedButton(
                   onPressed: null,
